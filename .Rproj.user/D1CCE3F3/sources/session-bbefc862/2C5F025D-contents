@@ -1,0 +1,46 @@
+baseurl: "https://example.org/"  # please update this to your actual URL
+languageCode: "en-us"
+title: "FFNAU"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: About
+      url: "about/"
+      weight: 2
+    - name: FAQ
+      url: "faq/"
+      weight: 3
+    - name: Key Terms
+      url: "keyterms/"
+      weight: 4
+
+params:
+  description: "A website for FFNAU"
+  footer: "[FFNAU Instagram](https://www.instagram.com/fossil_free_nau/)"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
