@@ -1,4 +1,4 @@
-baseurl: "https://brandon-mcn.github.io/FFNAUtest/"  # please update this to your actual URL
+baseurl: "https://brandon-mcn.github.io/"  # please update this to your actual URL
 languageCode: "en-us"
 title: "FFNAU"
 theme: "hugo-xmin"
