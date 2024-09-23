@@ -3,7 +3,7 @@
     "path": "C:/Users/Brand/GitHub/FFNAUtest/hugo.yaml",
     "project_path": "hugo.yaml",
     "type": "yaml",
-    "hash": "4178652161",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1727118727798.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "20,21",
-        "scrollLine": "6"
+        "cursorPosition": "10,7",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1727119330,
+    "lastKnownWriteTime": 1727121379,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1727119330602,
+    "last_content_update": 1727121379907,
     "read_only": false,
     "read_only_alternatives": []
 }

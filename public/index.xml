@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on FFNAU</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:4321/</link>
     <description>Recent content in Home on FFNAU</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Hugo XMin</title>
-      <link>https://example.org/siteguidance/</link>
+      <link>http://localhost:4321/siteguidance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/siteguidance/</guid>
+      <guid>http://localhost:4321/siteguidance/</guid>
       <description>&lt;p&gt;&lt;strong&gt;XMin&lt;/strong&gt; is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the  &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal. In fact, this theme does not contain any JavaScript code at all, although on this example website I did introduce some JavaScript code (still relatively simple anyway). The theme does not contain any images, either, and is pretty much a plain-text theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Us</title>
-      <link>https://example.org/about/</link>
+      <link>http://localhost:4321/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>http://localhost:4321/about/</guid>
       <description>&lt;p&gt;&lt;em&gt;add stuff about us&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fossil Free FAQ</title>
-      <link>https://example.org/faq/</link>
+      <link>http://localhost:4321/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/faq/</guid>
+      <guid>http://localhost:4321/faq/</guid>
       <description>&lt;h2 id=&#34;what-is-fossil-fuel-divestment&#34;&gt;What is Fossil Fuel Divestment?&lt;/h2&gt;&#xA;&lt;p&gt;Divestment is the opposite of investment. It means to pull invested money out of companies like Shell, ExxonMobil, and Chevron. These companies profit by exploiting natural resources and selling products that accelerate climate change. If we agree that climate change is doing harm all around the world, then it’s wrong for us to profit off companies that continue to expand the fossil fuel economy. The divestment movement calls for the simple action of removing yourself as a shareholder in fossil fuel companies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Key Terms</title>
-      <link>https://example.org/keyterms/</link>
+      <link>http://localhost:4321/keyterms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/keyterms/</guid>
+      <guid>http://localhost:4321/keyterms/</guid>
       <description>&lt;p&gt;&lt;em&gt;add key terms&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
