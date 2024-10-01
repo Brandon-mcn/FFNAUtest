@@ -27,7 +27,7 @@ menu:
 
 params:
   description: "A website for FFNAU"
-  footer: "[FFNAU Instagram](https://www.instagram.com/fossil_free_nau/)"
+  footer: "[FFNAU Instagram](https://www.instagram.com/naufossilfree/)"
 
 markup:
   highlight:
