@@ -31,11 +31,11 @@ Many argue that divestment makes no difference because someone else is just goin
 
 [Sign our letter](https://docs.google.com/forms/d/e/1FAIpQLSd2rUWwhlmpTKK1G0pliGEW8WNCGbH7koF7B42uq20HuBPd7Q/viewform?usp=sf_link) and ask that the NAU Foundation take divestment seriously! 
 
-**What are FFNAU’s specific demands?**
+## What are FFNAU’s specific demands?
 
-Check out exactly what we are asking the NAU Foundation Board to do here.
+Check out exactly what we are asking the NAU Foundation Board to do [here](/objectives).
 
-**More Questions?**
+## More Questions?
 
 Have a question for us that we haven’t answered above? Submit it here.
 
