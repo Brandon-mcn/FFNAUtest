@@ -3,16 +3,13 @@ title: Key Terms
 ---
 
 ### Fossil Fuels
-A non-renewable energy source made up of the remains of living organisms formed in the past
-Natural fuels such as coal, oil, and natural gas
+A non-renewable energy source made up of the remains of living organisms formed in the past. Modern society is dependent on fossil fuels, with around 80% of all global energy demand met by coal, oil, and natural gas. 
 
 ### Greenhouse Gas Emission
-Gases in the atmosphere that trap heat and raise the temperature on earth 
-EX: carbon dioxide, methane, nitrogen oxide
+Gases in the atmosphere that trap heat and raise the temperature on earth. The production and consumption of fossil fuels release many different greenhouse gasses, the most common are carbon dioxide, methane, and nitrogen oxide.
 
 ### Renewable Energy
-Energy derived from natural resources that are reoccurring at higher rates than non-renewable resources
-Energy such as solar, wind, hydroelectric, geothermal, biomass, and hydrogen
+Energy derived from natural resources that are reoccurring at higher rates than non-renewable resources. Energy such as solar, wind, hydroelectric, geothermal, biomass, and hydrogen
 
 ### Invest
 Put money into a company hoping to make a profit

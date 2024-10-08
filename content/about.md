@@ -20,6 +20,6 @@ We meet every Tuesday morning from 8:30-9:30 in the SBS West faculty lounge, roo
 
 ### What can you do?
 
-Please [sign our letter](https://docs.google.com/forms/d/e/1FAIpQLSd2rUWwhlmpTKK1G0pliGEW8WNCGbH7koF7B42uq20HuBPd7Q/viewform?usp=sf_link) to the foundation board asking for the divestment of fossil fuels at NAU. 
+Please [sign our letter](https://docs.google.com/forms/d/e/1FAIpQLSd2rUWwhlmpTKK1G0pliGEW8WNCGbH7koF7B42uq20HuBPd7Q/viewform?usp=sf_link){target="_blank"} to the foundation board asking for the divestment of fossil fuels at NAU. 
 
 
