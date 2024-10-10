@@ -11,7 +11,8 @@ The Carbon Underground 200 is recognized as the standard for going fossil-free. 
 * ExxonMobile
 * Chevron
 
-The full list of the Carbon Underground 200 is updated each quarter and is available from https://fossilfreefunds.org/ 
+The full list of the Carbon Underground 200 is updated each quarter and is available from
+<a href="https://fossilfreefunds.org/" target="_blank">fossilfreefunds.org</a>
 
 ### Objective #2: Evaluate all carbon-intensive companies for the existence and quality of a low-carbon transition plan.
 

@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on FFNAU</title>
-    <link>https://brandon-mcn.github.io/</link>
+    <link>http://localhost:4321/</link>
     <description>Recent content in Home on FFNAU</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://brandon-mcn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Hugo XMin</title>
-      <link>https://brandon-mcn.github.io/siteguidance/</link>
+      <link>http://localhost:4321/siteguidance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://brandon-mcn.github.io/siteguidance/</guid>
+      <guid>http://localhost:4321/siteguidance/</guid>
       <description>&lt;p&gt;&lt;strong&gt;XMin&lt;/strong&gt; is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the  &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal. In fact, this theme does not contain any JavaScript code at all, although on this example website I did introduce some JavaScript code (still relatively simple anyway). The theme does not contain any images, either, and is pretty much a plain-text theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Us</title>
-      <link>https://brandon-mcn.github.io/about/</link>
+      <link>http://localhost:4321/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://brandon-mcn.github.io/about/</guid>
+      <guid>http://localhost:4321/about/</guid>
       <description>&lt;p&gt;Fossil Free NAU is a student-based organization that is working with student staff, faculty, alumni, and community members of Flagstaff to reach the goal of a fossil-free future. We here are just a chapter of a much larger movement striving for &lt;strong&gt;divestment&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-are-we-doing&#34;&gt;What are we doing?&lt;/h3&gt;&#xA;&lt;p&gt;We have written a letter asking the &lt;strong&gt;Foundation board&lt;/strong&gt; to remove their &lt;strong&gt;endowment&lt;/strong&gt; investments from the fossil fuel industry and to reinvest in renewable energy. The university and its representatives have a responsibility to their community to protect us and our futures. NAU has a &lt;strong&gt;strategic plan&lt;/strong&gt; that includes values to abide by; such as effective utilization of our financial resources with a commitment to the responsible use of environmental resources. With investments in the top 10 oil companies, their actions are not aligned with their commitments.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Detailed Divestment Objectives</title>
-      <link>https://brandon-mcn.github.io/objectives/</link>
+      <link>http://localhost:4321/objectives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://brandon-mcn.github.io/objectives/</guid>
-      <description>&lt;h3 id=&#34;objective-1-divest-from-the-top-200-coal-and-oilgas-reserve-owners&#34;&gt;Objective #1: Divest from the top 200 coal and oil/gas reserve owners&lt;/h3&gt;&#xA;&lt;p&gt;The Carbon Underground 200 is recognized as the standard for going fossil-free. These are the top 100 coal and the top 100 oil and gas publicly-traded fossil fuel reserve holders globally, ranked by the potential carbon emissions content of their reported reserves. Companies in the Carbon 200 include&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Royal Dutch Shell&lt;/li&gt;&#xA;&lt;li&gt;TotalEnergies&lt;/li&gt;&#xA;&lt;li&gt;ExxonMobile&lt;/li&gt;&#xA;&lt;li&gt;Chevron&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The full list of the Carbon Underground 200 is updated each quarter and is available from &lt;a href=&#34;https://fossilfreefunds.org/&#34;&gt;https://fossilfreefunds.org/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:4321/objectives/</guid>
+      <description>&lt;h3 id=&#34;objective-1-divest-from-the-top-200-coal-and-oilgas-reserve-owners&#34;&gt;Objective #1: Divest from the top 200 coal and oil/gas reserve owners&lt;/h3&gt;&#xA;&lt;p&gt;The Carbon Underground 200 is recognized as the standard for going fossil-free. These are the top 100 coal and the top 100 oil and gas publicly-traded fossil fuel reserve holders globally, ranked by the potential carbon emissions content of their reported reserves. Companies in the Carbon 200 include&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Royal Dutch Shell&lt;/li&gt;&#xA;&lt;li&gt;TotalEnergies&lt;/li&gt;&#xA;&lt;li&gt;ExxonMobile&lt;/li&gt;&#xA;&lt;li&gt;Chevron&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The full list of the Carbon Underground 200 is updated each quarter and is available from&#xA;&lt;a href=&#34;https://fossilfreefunds.org/&#34; target=&#34;_blank&#34;&gt;fossilfreefunds.org&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fossil Free FAQ</title>
-      <link>https://brandon-mcn.github.io/faq/</link>
+      <link>http://localhost:4321/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://brandon-mcn.github.io/faq/</guid>
+      <guid>http://localhost:4321/faq/</guid>
       <description>&lt;h2 id=&#34;what-is-fossil-fuel-divestment&#34;&gt;What is Fossil Fuel Divestment?&lt;/h2&gt;&#xA;&lt;p&gt;Divestment is the opposite of investment. It means to pull invested money out of companies like Shell, ExxonMobil, and Chevron. These companies profit by exploiting natural resources and selling products that accelerate climate change. If we agree that climate change is doing harm all around the world, then it’s wrong for us to profit off companies that continue to expand the fossil fuel economy. The divestment movement calls for the simple action of removing yourself as a shareholder in fossil fuel companies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Key Terms</title>
-      <link>https://brandon-mcn.github.io/keyterms/</link>
+      <link>http://localhost:4321/keyterms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://brandon-mcn.github.io/keyterms/</guid>
+      <guid>http://localhost:4321/keyterms/</guid>
       <description>&lt;h3 id=&#34;fossil-fuels&#34;&gt;Fossil Fuels&lt;/h3&gt;&#xA;&lt;p&gt;A non-renewable energy source made up of the remains of living organisms formed in the past. Modern society is dependent on fossil fuels, with around 80% of all global energy demand met by coal, oil, and natural gas.&lt;/p&gt;&#xA;&lt;h3 id=&#34;greenhouse-gas-emission&#34;&gt;Greenhouse Gas Emission&lt;/h3&gt;&#xA;&lt;p&gt;Gases in the atmosphere that trap heat and raise the temperature on earth. The production and consumption of fossil fuels release many different greenhouse gasses, the most common are carbon dioxide, methane, and nitrogen oxide.&lt;/p&gt;</description>
     </item>
   </channel>
