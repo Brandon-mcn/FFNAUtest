@@ -16,7 +16,7 @@ Climate change is a human-caused phenomenon. The effects are being felt by commu
 
 ### Where do we meet?
 
-We meet every Tuesday morning from 8:30-9:30 in the SBS West faculty lounge, room 202. Please join uu :)
+We meet every Tuesday morning from 8:30-9:30 in the SBS West faculty lounge, room 202. Please join us!
 
 ### What can you do?
 
