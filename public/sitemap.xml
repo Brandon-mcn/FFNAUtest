@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/siteguidance/</loc>
+    <loc>https://fossilfreenau.com/siteguidance/</loc>
   </url><url>
-    <loc>http://localhost:4321/about/</loc>
+    <loc>https://fossilfreenau.com/about/</loc>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
+    <loc>https://fossilfreenau.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:4321/objectives/</loc>
+    <loc>https://fossilfreenau.com/objectives/</loc>
   </url><url>
-    <loc>http://localhost:4321/faq/</loc>
+    <loc>https://fossilfreenau.com/faq/</loc>
   </url><url>
-    <loc>http://localhost:4321/</loc>
+    <loc>https://fossilfreenau.com/</loc>
   </url><url>
-    <loc>http://localhost:4321/keyterms/</loc>
+    <loc>https://fossilfreenau.com/keyterms/</loc>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
+    <loc>https://fossilfreenau.com/tags/</loc>
   </url>
 </urlset>

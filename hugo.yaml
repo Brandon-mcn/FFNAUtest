@@ -1,4 +1,4 @@
-baseurl: "https://brandon-mcn.github.io/"  # please update this to your actual URL
+baseurl: "https://fossilfreenau.com"  # please update this to your actual URL
 languageCode: "en-us"
 title: "FFNAU"
 theme: "hugo-xmin"
@@ -27,7 +27,7 @@ menu:
 
 params:
   description: "A website for FFNAU"
-  footer: "[FFNAU Instagram](https://www.instagram.com/naufossilfree/)"
+  footer: <a href="https://www.instagram.com/naufossilfree/" target="_blank"><b>FFNAU Instagram</b></a>
 
 markup:
   highlight:

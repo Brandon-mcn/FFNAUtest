@@ -12,7 +12,7 @@ The Carbon Underground 200 is recognized as the standard for going fossil-free. 
 * Chevron
 
 The full list of the Carbon Underground 200 is updated each quarter and is available from
-<a href="https://fossilfreefunds.org/" target="_blank">fossilfreefunds.org</a>
+<a href="https://fossilfreefunds.org/" target="_blank"><b>fossilfreefunds.org</b></a>
 
 ### Objective #2: Evaluate all carbon-intensive companies for the existence and quality of a low-carbon transition plan.
 
@@ -26,9 +26,9 @@ A **carbon-intensive company** can be defined by a number of qualifications
 * Carbon footprint: the carbon footprint of a portfolio company is equal to its financed emissions (annual GHG emissions * attribution factor).
 
 A low-carbon transition plan should be evaluated against specific criteria assessing carbon performance and energy transition initiatives. 
-* The Transition Pathway Initiative provides a widely regarded framework for evaluating the quality of a company’s low-carbon transition plan. Data is publicly available. 
+* The <a href="https://www.transitionpathwayinitiative.org/" target="_blank"><b>Transition Pathway Initiative</b></a> provides a widely regarded framework for evaluating the quality of a company’s low-carbon transition plan. Data is publicly available. 
 
-NAUF should also consider evaluating portfolio companies more broadly for their support of a just transition. The International Labour Organization defines a just transition as “greening the economy in a way that is as fair and inclusive as possible to everyone concerned, creating decent work opportunities and leaving no one behind”. Climate Action 100, an initiative to hold carbon-intensive companies accountable for action on climate change, has developed indicators to assess the quality of a company’s commitment to advancing a just transition. 
+NAUF should also consider evaluating portfolio companies more broadly for their support of a just transition. The International Labour Organization defines a just transition as “greening the economy in a way that is as fair and inclusive as possible to everyone concerned, creating decent work opportunities and leaving no one behind”. <a href="https://www.climateaction100.org/net-zero-company-benchmark/methodology/" target="_blank"><b>Climate Action 100</b></a>, an initiative to hold carbon-intensive companies accountable for action on climate change, has developed indicators to assess the quality of a company’s commitment to advancing a just transition. 
 
 
 ### Objective #3: Gather feedback from NAU students, faculty, alumni, and staff on priorities for a socially responsible investment (SRI) policy
@@ -44,7 +44,7 @@ NAUF and the endowment exist for the sole purpose of benefiting NAU. Therefore, 
 
 ### Objective #4: Disclose endowment holdings and investment policy annually
 
-It’s important to increase transparency around holdings in the endowment and the investment policy. This can be achieved by expanding the 2023 Supplemental Fund Report to include details on investment holdings and investment policy. The annual report should include at minimum 
+It’s important to increase transparency around holdings in the endowment and the investment policy. This can be achieved by expanding the <a href="https://www.foundationnau.org/s/1898/images/gid2/editor_documents/fnd_fy23_endowment_report_final.pdf?gid=2&pgid=61" target="_blank"><b>2023 Supplemental Fund Report</b></a> to include details on investment holdings and investment policy. The annual report should include at minimum 
 * A list of all index funds the endowment is invested in 
 * The top holdings from each index fund 
 * An inventory of financed emissions from the previous fiscal year 

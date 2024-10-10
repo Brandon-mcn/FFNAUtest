@@ -8,11 +8,11 @@ Divestment is the opposite of investment. It means to pull invested money out of
 
 ## Why is this relevant for NAU?
 
-Many amazing individuals and initiatives here at NAU are funded by our endowment. The endowment is a pool of money worth over $250 million, which is largely invested in the stock market. This money is spread across a wide variety of companies and industries – including the fossil fuel industry. What this means is that some of the financial resources made available through our endowment can be traced back to the profits of the fossil fuel industry. Here at NAU, we have a mission and vision tied to sustainability and a renewable energy future. We believe that our position as a shareholder in the fossil fuel industry is incompatible with our commitment to be proactive on climate change. [What else besides divestment is NAU already doing to lower its fossil fuel emissions?](https://in.nau.edu/green-nau/nau-climate-action-plan/){target="_blank"}
+Many amazing individuals and initiatives here at NAU are funded by our endowment. The endowment is a pool of money worth over $250 million, which is largely invested in the stock market. This money is spread across a wide variety of companies and industries – including the fossil fuel industry. What this means is that some of the financial resources made available through our endowment can be traced back to the profits of the fossil fuel industry. Here at NAU, we have a mission and vision tied to sustainability and a renewable energy future. We believe that our position as a shareholder in the fossil fuel industry is incompatible with our commitment to be proactive on climate change. <a href="https://in.nau.edu/green-nau/nau-climate-action-plan/" target="_blank"><b>What else besides divestment is NAU already doing to lower its fossil fuel emissions?</b></a>
 
 ## Who is Divesting?
 
-Thousands of institutions around the world, with portfolios worth over $40 trillion, have divested from fossil fuels. These include pension funds, corporations, faith-based organizations, and higher education. Many major universities, including the entire University of California system, Stanford, and Harvard, have divested from fossil fuels. The fossil fuel divestment movement has accelerated in recent years as the impact of climate change intensifies and the inaction from oil, gas, and coal companies becomes more apparent. There are now institutions across 71 counties that have committed to fossil fuel divestment. Visit this database to see the full list of [colleges, universities, and other institutions](https://divestmentdatabase.org/){target="_blank"} that have already divested from fossil fuels.
+Thousands of institutions around the world, with portfolios worth over $40 trillion, have divested from fossil fuels. These include pension funds, corporations, faith-based organizations, and higher education. Many major universities, including the entire University of California system, Stanford, and Harvard, have divested from fossil fuels. The fossil fuel divestment movement has accelerated in recent years as the impact of climate change intensifies and the inaction from oil, gas, and coal companies becomes more apparent. There are now institutions across 71 counties that have committed to fossil fuel divestment. Visit this database to see the full list of <a href="https://divestmentdatabase.org/" target="_blank"><b>colleges, universities, and other institutions</b></a> that have already divested from fossil fuels. 
 
 ## But I Thought Major Energy Companies Were Helping?
 
@@ -29,14 +29,9 @@ Many argue that divestment makes no difference because someone else is just goin
 
 ## What can I do?
 
-[Sign our letter](https://docs.google.com/forms/d/e/1FAIpQLSd2rUWwhlmpTKK1G0pliGEW8WNCGbH7koF7B42uq20HuBPd7Q/viewform?usp=sf_link){target="_blank"} and ask that the NAU Foundation take divestment seriously! 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd2rUWwhlmpTKK1G0pliGEW8WNCGbH7koF7B42uq20HuBPd7Q/viewform?usp=sf_link" target="_blank"><b>Sign our letter</b></a> and ask that the NAU Foundation take divestment seriously! 
 
 ## What are FFNAU’s specific demands?
 
 Check out exactly what we are asking the NAU Foundation Board to do [here](/objectives).
-
-## More Questions?
-
-Have a question for us that we haven’t answered above? Submit it here.
-
 
