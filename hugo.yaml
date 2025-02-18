@@ -24,6 +24,9 @@ menu:
     - name: Key Terms
       url: "keyterms/"
       weight: 5
+    - name: Our Letter
+      url: "ourletter/"
+      weight: 6
 
 params:
   description: "A website for FFNAU"
