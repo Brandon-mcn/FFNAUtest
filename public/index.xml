@@ -8,13 +8,6 @@
     <language>en-us</language>
     <atom:link href="https://fossilfreenau.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://fossilfreenau.com/ourletter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fossilfreenau.com/ourletter/</guid>
-      <description>&lt;h2 id=&#34;to-the-nau-foundation-board&#34;&gt;To the NAU Foundation Board,&lt;/h2&gt;&#xA;&lt;p&gt;We are students, faculty, staff, and alumni of Northern Arizona University (NAU) concerned with the misalignment between NAU’s Elevating Excellence and the university endowment investment policy.&lt;/p&gt;&#xA;&lt;p&gt;NAU’s Elevating Excellence Strategy commits us to “effectively utilize our physical, technological, and financial resources in support of our vision and mission, with a commitment to the responsible use of environmental resources, innovative use of technology, and mission-driven financial investments and philanthropic activity.” NAU also promised carbon neutrality by 2030. We believe these commitments require that we redefine the priorities of our endowment’s investment policy. We thus call on you to:&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>About Hugo XMin</title>
       <link>https://fossilfreenau.com/siteguidance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,6 +41,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fossilfreenau.com/keyterms/</guid>
       <description>&lt;h3 id=&#34;fossil-fuels&#34;&gt;Fossil Fuels&lt;/h3&gt;&#xA;&lt;p&gt;A non-renewable energy source made up of hydrocarbons that release greenhouse gas emissions when burned. Modern society is dependent on fossil fuels, with around 80% of all global energy demand met by coal, oil, and natural gas.&lt;/p&gt;&#xA;&lt;h3 id=&#34;greenhouse-gas-emission&#34;&gt;Greenhouse Gas Emission&lt;/h3&gt;&#xA;&lt;p&gt;Gases in the atmosphere that trap heat and raise the temperature on earth. The production and consumption of fossil fuels release many different greenhouse gasses, the most common are carbon dioxide, methane, and nitrogen oxide.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Letter</title>
+      <link>https://fossilfreenau.com/ourletter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fossilfreenau.com/ourletter/</guid>
+      <description>&lt;style&gt;&#xD;&#xA;.article-meta {&#xD;&#xA;    display: none;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;h2 id=&#34;to-the-nau-foundation-board&#34;&gt;To the NAU Foundation Board,&lt;/h2&gt;&#xA;&lt;p&gt;We are students, faculty, staff, and alumni of Northern Arizona University (NAU) concerned with the misalignment between NAU’s Elevating Excellence and the university endowment investment policy.&lt;/p&gt;&#xA;&lt;p&gt;NAU’s Elevating Excellence Strategy commits us to “effectively utilize our physical, technological, and financial resources in support of our vision and mission, with a commitment to the responsible use of environmental resources, innovative use of technology, and mission-driven financial investments and philanthropic activity.” NAU also promised carbon neutrality by 2030. We believe these commitments require that we redefine the priorities of our endowment’s investment policy. We thus call on you to:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fossilfreenau.com/ourletter/</loc>
-  </url><url>
     <loc>https://fossilfreenau.com/siteguidance/</loc>
   </url><url>
     <loc>https://fossilfreenau.com/about/</loc>
@@ -17,6 +15,8 @@
     <loc>https://fossilfreenau.com/</loc>
   </url><url>
     <loc>https://fossilfreenau.com/keyterms/</loc>
+  </url><url>
+    <loc>https://fossilfreenau.com/ourletter/</loc>
   </url><url>
     <loc>https://fossilfreenau.com/tags/</loc>
   </url>

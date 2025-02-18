@@ -1,6 +1,12 @@
 ---
-title:
+title: "Our Letter"
 ---
+
+<style>
+.article-meta {
+    display: none;
+}
+</style>
 
 ## To the NAU Foundation Board,
 
