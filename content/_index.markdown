@@ -2,11 +2,53 @@
 title: Home
 ---
 
-![](images/ffnau1.png)
+<style>
+  @font-face {
+    font-family: 'Funtastic';
+    src: url('fonts/Funtastic.woff2') format('woff2'),
+         url('fonts/Funtastic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
 
-<div style="text-align: center; font-size: 1.5em;">
-<strong><em>Divest for the Planet: Invest in Our Future!</em></strong>
+  .hero-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh; /* vertical centering */
+    text-align: left;
+  }
+
+  .hero-header {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 2em;
+    border-radius: 1em;
+  }
+
+  .hero-logo {
+    height: 140px;
+    margin-right: 2em;
+  }
+
+  .hero-text {
+    font-family: 'Funtastic', sans-serif;
+    font-size: 2.2em;
+    font-weight: bold;
+    color: #222;
+    line-height: 1.3;
+  }
+</style>
+
+<div class="hero-header">
+  <img src="images/ffnau1.png" alt="Logo" class="hero-logo">
+  <div class="hero-text">
+    Divest for the Planet:<br> 
+    Invest in Our Future!
+  </div>
 </div>
+
 
 Climate Change is one of the most complex problems humanity has every faced, yet its root cause is plain and simple: **The Fossil Fuel Economy.** Burning oil, coal, and natural gas raises the atmospheric concentration of CO2, trapping more heat and increasing the risk of extreme weather events. 2024 was the <a href="https://www.noaa.gov/news/2024-was-worlds-warmest-year-on-record" target="_blank"><b>hottest year on record</b></a> with our planet's 10 warmest years since 1850 all occurring in the past decade. We are dealing with a <a href="https://www.unep.org/facts-about-climate-emergency" target="_blank"><b>climate emergency.</b></a>
 
