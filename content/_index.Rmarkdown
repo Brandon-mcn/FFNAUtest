@@ -2,42 +2,54 @@
 title: Home
 ---
 
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
 <style>
-  @font-face {
-    font-family: 'Funtastic';
-    src: url('fonts/Funtastic.woff2') format('woff2'),
-         url('fonts/Funtastic.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-  }
-
-  .hero-wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 60vh; /* vertical centering */
-    text-align: left;
-  }
-
   .hero-header {
     display: flex;
+    flex-direction: row;
     align-items: center;
+    justify-content: center;
     background-color: #fff;
     padding: 2em;
     border-radius: 1em;
+    max-width: 1000px;
+    margin: auto;
+    flex-wrap: wrap;
   }
 
   .hero-logo {
-    height: 140px;
+    height: 180px;
     margin-right: 2em;
+    flex-shrink: 0;
   }
 
   .hero-text {
-    font-family: 'Funtastic', sans-serif;
-    font-size: 2.2em;
-    font-weight: bold;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2.8em;
+    font-weight: normal;
     color: #222;
-    line-height: 1.3;
+    line-height: 1.2;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  @media (max-width: 768px) {
+    .hero-header {
+      flex-direction: column;
+      text-align: center;
+      padding: 1.5em;
+    }
+
+    .hero-logo {
+      height: 140px;
+      margin: 0 0 1em 0;
+    }
+
+    .hero-text {
+      font-size: 1.8em;
+      line-height: 1.2;
+    }
   }
 </style>
 
@@ -48,7 +60,6 @@ title: Home
     Invest in Our Future!
   </div>
 </div>
-
 
 Climate Change is one of the most complex problems humanity has every faced, yet its root cause is plain and simple: **The Fossil Fuel Economy.** Burning oil, coal, and natural gas raises the atmospheric concentration of CO2, trapping more heat and increasing the risk of extreme weather events. 2024 was the <a href="https://www.noaa.gov/news/2024-was-worlds-warmest-year-on-record" target="_blank"><b>hottest year on record</b></a> with our planet's 10 warmest years since 1850 all occurring in the past decade. We are dealing with a <a href="https://www.unep.org/facts-about-climate-emergency" target="_blank"><b>climate emergency.</b></a>
 
