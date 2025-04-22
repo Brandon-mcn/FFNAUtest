@@ -33,7 +33,7 @@ NAUF should also consider evaluating portfolio companies more broadly for their 
 
 ### Objective #3: Gather feedback from NAU students, faculty, alumni, and staff on priorities for a socially responsible investment (SRI) policy
 
-NAUF should develop a socially responsible investment (SRI) policy using input gathered from the community. The socially responsible investment policy should make clear that NAU’s non-pecuniary values, such as environmental stewardship and GHG emission reduction, are reflected in the endowment investment strategy. Common SRI approaches include 
+NAUF should develop a socially responsible investment (SRI) policy using input gathered from the community. The socially responsible investment policy should make clear that NAU’s values, such as environmental stewardship and GHG emission reduction, are reflected in the endowment investment strategy. Common SRI approaches include 
 * Negative screening: What kind of companies do not align with NAUs values and therefore are screened from the portfolio? Fossil fuel companies are clearly misaligned with NAU’s elevating excellence strategy, specifically the carbon neutrality goal, so they should be screened from the portfolio. 
 * Positive screening: What companies hold similar values to NAU and help advance the mission of the university? Through positive screening, these companies would be selected for investment. 
 * Engagement: As a shareholder in companies, NAUF can vote at board meetings and support various shareholder resolutions.
