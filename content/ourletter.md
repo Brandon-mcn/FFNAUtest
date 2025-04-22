@@ -29,8 +29,8 @@ Our endowment supports amazing initiatives and individuals who advance the missi
 
 As caretakers of this university, the NAU Foundation Board owes it to current and future NAU communities to align the endowment investment strategy with NAU’s mission and vision for our sustainable future. 
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSd2rUWwhlmpTKK1G0pliGEW8WNCGbH7koF7B42uq20HuBPd7Q/viewform?usp=sf_link" target="_blank"><b>Follow this link</b></a> to add your name to our letter and join the growing list of **790** students, faculty, staff, alumni, and student clubs who are calling on NAU to divest from fossil fuels!
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd2rUWwhlmpTKK1G0pliGEW8WNCGbH7koF7B42uq20HuBPd7Q/viewform?usp=sf_link" target="_blank"><b>Follow this link</b></a> to add your name to our letter and join the growing list of students, faculty, staff, alumni, and student clubs who are calling on NAU to divest from fossil fuels!
 
-## List of current signatories
+## List of current signatories - 790 total! 
 
 <iframe src="/includes/signatures.html" width="100%" height="600" style="border:none;"></iframe>
